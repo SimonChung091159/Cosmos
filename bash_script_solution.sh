@@ -1,3 +1,5 @@
+print("Phuc has read these line")
+
 mkdir data data/raw data/train data/test data/validation
 mkdir app app/blueprints app/blueprints/home_page
 touch app/blueprints/__init__.py app/blueprints/home_page/__init__.py app/blueprints/home_page/blueprint.py
